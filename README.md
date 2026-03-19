@@ -13,9 +13,10 @@ The ESPON ReAdapt NbS Knowledge Repository is an open-access interactive evidenc
 ---
 
 ## Knowledge Base
-This project systematically maps the fragmented NbS knowledge landscape across four interlinked domains: (i) policy frameworks, (ii) EU funded implementation projects, (iii) knowledge sharing platforms and networks, and (iv) the scientific literature across EU Member States.
+This project systematically maps the fragmented NbS knowledge landscape across four interlinked domains: (i) policy frameworks, (ii) EU funded implementation projects, (iii) knowledge sharing platforms and networks, and (iv) the scientific literature across EU Member States. 
 
-Coverage: ESPON Member and Associated Countries, 30 European countries. Covers major climate hazards. Includes a broad range of NbS solutions implemented across EU regions.
+Coverage: ESPON Member and Associated Countries, 30 European countries. Covers key climate hazards and includes a broad range of NbS solutions studied or implemented across these countries.
+
 ---
 
 ## Features
