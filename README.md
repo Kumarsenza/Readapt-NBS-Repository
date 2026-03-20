@@ -1,4 +1,4 @@
-# 🌿 ESPON ReAdapt NbS Knowledge Repository
+# ESPON ReAdapt NbS Knowledge Repository
 
 **Re-Naturing Territorial Development for Climate Risk Adaptation**
 
